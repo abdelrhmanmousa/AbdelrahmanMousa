@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">- I have bachelor's degree in artificial intelligence .<br>- 📚 I'm currently learning data engineering @ITI<br>- ⚡ In my free time I ...</p>
+<p align="left">- I have bachelor's degree in artificial intelligence .<br>- 📚 I'm currently learning data engineering @ITI<br>- ⚡ In my free time I playing football and listen to music</p>
 
 ###
 
