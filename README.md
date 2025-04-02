@@ -102,10 +102,10 @@
 ### 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/abdelrhmanmousa/your-repo-1">
+  <a href="https://github.com/abdelrhmanmousa/your-LeetCode">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrhmanmousa&repo=your-repo-1&theme=dracula" />
   </a>
-  <a href="https://github.com/abdelrhmanmousa/your-repo-2">
+  <a href="https://github.com/abdelrhmanmousa/your-">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrhmanmousa&repo=your-repo-2&theme=dracula" />
   </a>
 </div>
