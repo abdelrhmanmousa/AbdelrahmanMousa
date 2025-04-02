@@ -101,14 +101,26 @@
 
 ### 🚀 Featured Projects
 
+<h3 align="center">🌟 Featured Projects</h3>
+
 <div align="center">
-  <a href="https://github.com/abdelrhmanmousa/your-LeetCode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrhmanmousa&repo=your-repo-1&theme=dracula" />
+  <a href="https://github.com/abdelrhmanmousa/LeetCode">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrhmanmousa&repo=LeetCode&theme=dracula&hide_border=true&show_icons=true&bg_color=0D1117" />
   </a>
-  <a href="https://github.com/abdelrhmanmousa/your-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrhmanmousa&repo=your-repo-2&theme=dracula" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/abdelrhmanmousa/Arabic-Sign-Language-recognition">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrhmanmousa&repo=Arabic-Sign-Language-recognition&theme=dracula&hide_border=true&show_icons=true&bg_color=0D1117" />
   </a>
 </div>
+
+<p align="center">
+  <a href="https://github.com/abdelrhmanmousa/LeetCode">
+    <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://github.com/abdelrhmanmousa/Arabic-Sign-Language-recognition">
+    <img src="https://img.shields.io/badge/AI-Sign_Language_Recognition-blue?style=for-the-badge&logo=opencv" />
+  </a>
+</p>
 
 ### 🎯 Current Focus
 
