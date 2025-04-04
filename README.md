@@ -103,10 +103,7 @@
 
 <div align="center">
   
-  <!-- Nginx Icon -->
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="42" height="42"/>
-  </a>
+
 
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=abdelrhmanmousa&show_icons=true&theme=radical&bg_color=0D1117" alt="abdelrhmanmousa" />
