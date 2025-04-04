@@ -100,12 +100,27 @@
 ![MS SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="42" height="42" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrhmanmousa&show_icons=true&locale=en" alt="abdelrhmanmousa" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrhmanmousa&" alt="abdelrhmanmousa" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrhmanmousa&show_icons=true&locale=en&layout=compact" alt="abdelrhmanmousa" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrhmanmousa" alt="abdelrhmanmousa" /></a></p>
+
+<div align="center">
+  
+  <!-- Nginx Icon -->
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="42" height="42"/>
+  </a>
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelrhmanmousa&show_icons=true&theme=radical&bg_color=0D1117" alt="abdelrhmanmousa" />
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrhmanmousa&theme=dark&background=0D1117" alt="abdelrhmanmousa" />
+
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrhmanmousa&show_icons=true&layout=compact&theme=radical&bg_color=0D1117" alt="abdelrhmanmousa" />
+
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=abdelrhmanmousa&theme=radical&background=0D1117&row=1" alt="abdelrhmanmousa" />
+
+</div>
 
 ### 🚀 Featured Projects
 
